@@ -1,2 +1,4 @@
-# IT-1600-Final-Project
-A tutorial on binary arithmetic.
+# Binary Math: Simplified!
+by Karla Jaime
+
+
