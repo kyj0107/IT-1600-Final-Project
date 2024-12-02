@@ -1,5 +1,12 @@
 # Binary Addition
 
-You know how, when you're adding numbers, you have to carry the one into the next column? So an equation like
+Binary addition works no different from "normal" addition: when two numbers in a column add up to a two-digit number, you carry the one over to the next column. Repeat the process a few times, and you have your answer. Where it differs, however, is what adding one to a column of numbers does in binary addition.
 
-`Hello?`
+Let's use this equation as an example:
+
+```
+  1101
++ 1011
+------
+
+```
