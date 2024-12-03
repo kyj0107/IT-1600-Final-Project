@@ -8,10 +8,24 @@ Let's use this equation as an example:
   1101
 + 1011
 ------
-
+     ?
 ```
 
-**The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+Since it's nothing but ones and zeros that you can turn on and off, 1 and 0 makes 1, and 1 and 1 makes 0. Basically, if the sum of a column is an odd number, it's 1; if it's an even number, it's 0. And if we apply the rule of carrying the one over to the next column, if 1 and 1 make 0, you carry the 1 over to the next column, so 0 and 1 and 1 would make 0--rinse and repeat as you need, and then--
 
-Don't mind me, I'm just testing something real quick...
+```
+  1101
++ 1011
+------
+ 11000
+```
+
+1101 + 1011 is 11000!
+
+And thus, we have completed binary addition!
+
+## Where next?
+
+- Homepage
+- Binary Subtraction
+
