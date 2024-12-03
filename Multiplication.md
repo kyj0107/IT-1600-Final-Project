@@ -88,4 +88,4 @@ And thus, binary multiplication has been learned!
 ## Where next?
 
 - Homepage
-- Binary division
+- Binary Division
