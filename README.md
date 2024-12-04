@@ -1,4 +1,4 @@
-# Binary Math: Simplified! by Karla Jaime
+# Binary Math! by Karla Jaime
 
 A tutorial for binary arithmetic: addition, subtraction, multiplication, and division!
 
