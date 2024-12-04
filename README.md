@@ -1,8 +1,8 @@
 # Binary Math! by Karla Jaime
 
-A tutorial for binary arithmetic: addition, subtraction, multiplication, and division!
+Welcome to a tutorial on binary arithmetic: addition, subtraction, multiplication, and division! Binary numbers is the language of computers, and knowing how to solve for them.
 
-If you know what binary numbers are, how to convert decimal to binary, and want to take things to the next level, then this tutorial is for you!
+However, keep in mind that this tutorial is intended for people who understand the concept of binary numbers and can convert them to decimals. We're taking binary numbers to new places, so knowing how they work beforehand is strongly recommended!
 
 ## Directory
 
