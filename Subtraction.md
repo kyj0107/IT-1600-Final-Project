@@ -40,4 +40,4 @@ And there you have it! It's not quite the same process as binary addition, and i
 ## Where next?
 
 - [Homepage](https://github.com/kyj0107/IT-1600-Final-Project/blob/main/README.md)
-- [Binary multiplication[(https://github.com/kyj0107/IT-1600-Final-Project/blob/main/Multiplication.md)
+- [Binary multiplication](https://github.com/kyj0107/IT-1600-Final-Project/blob/main/Multiplication.md)
