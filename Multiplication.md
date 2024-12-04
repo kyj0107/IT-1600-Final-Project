@@ -60,5 +60,5 @@ And thus, binary multiplication has been learned!
 
 ## Where next?
 
-- Homepage
-- Binary Division
+- [Homepage](https://github.com/kyj0107/IT-1600-Final-Project/blob/main/README.md)
+- [Binary Division](https://github.com/kyj0107/IT-1600-Final-Project/blob/main/Division.md)
