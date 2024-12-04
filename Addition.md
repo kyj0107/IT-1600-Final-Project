@@ -26,6 +26,6 @@ And thus, we have completed binary addition!
 
 ## Where next?
 
-- Homepage
-- Binary Subtraction
+- [Homepage](https://github.com/kyj0107/IT-1600-Final-Project/blob/main/README.md)
+- [Binary Subtraction](https://github.com/kyj0107/IT-1600-Final-Project/blob/main/Subtraction.md)
 
