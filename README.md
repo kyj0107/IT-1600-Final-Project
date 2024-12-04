@@ -8,5 +8,5 @@ If you know what binary numbers are, how to convert decimal to binary, and want 
 
 - [Binary Addition](https://github.com/kyj0107/IT-1600-Final-Project/blob/34b4af0978da09d393113d5be802fb8aef462c5f/Addition.md)
 - Binary Subtraction
-- [Binary Multiplication](https://github.com/kyj0107/IT-1600-Final-Project/blob/fee46c143c9168e124e6f3ec217df5293fb1af5d/Multiplication.md)
+- [Binary Multiplication](https://github.com/kyj0107/IT-1600-Final-Project/blob/03dcb5a226690950a35ee7ba18ad1a00024928ed/Multiplication.md)
 - Binary Division
