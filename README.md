@@ -6,7 +6,7 @@ If you know what binary numbers are, how to convert decimal to binary, and want 
 
 ## Directory
 
-- Binary Addition
+- [Binary Addition](https://github.com/kyj0107/IT-1600-Final-Project/blob/34b4af0978da09d393113d5be802fb8aef462c5f/Addition.md)
 - Binary Subtraction
 - Binary Multiplication
 - Binary Division
