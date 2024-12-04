@@ -51,4 +51,4 @@ And so, 1011 / 11 = 11 with a remainder of 10!
 
 ## Congrats! You've learned binary arithmetic!
 
-- Homepage
+- [Homepage](https://github.com/kyj0107/IT-1600-Final-Project/blob/main/README.md)
